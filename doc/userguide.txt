@@ -1471,7 +1471,7 @@ Here is an example of using `hashscan`. First ensure that it is built:
 Since `hashscan` needs a running program to inspect, we'll start up a simple
 program that makes a hash table and then sleeps as our test subject:
 
-    ./test_sleep &
+    ./sleep_test &
     pid: 9711
 
 Now that we have a test program, let's run `hashscan` on it:

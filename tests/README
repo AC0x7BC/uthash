@@ -122,7 +122,7 @@ win32tests:builds and runs the test suite under Microsoft Visual Studio
 LINUX/FREEBSD
 -------------
 hashscan:  tool to examine a running process and get info on its hash tables
-test_sleep:used as a subject for inspection by hashscan
+sleep_test: used as a subject for inspection by hashscan
 
 Manual performance testing
 ================================================================================
